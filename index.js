@@ -2,5 +2,5 @@
 var customerName = "bob"
 
 function upperCaseCustomerName() {
-  return customerName.toUpperCase + customerName.slice(1);
+  return customerName.toUpperCase;
 }
